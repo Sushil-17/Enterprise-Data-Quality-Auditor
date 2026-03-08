@@ -1,4 +1,4 @@
-\# 🛡️ Enterprise Data Quality Auditor  
+\# 🛡️ Enterprise Data Quality Auditor
 
 \### Revenue Integrity \& ETL Validation Pipeline
 
@@ -10,11 +10,17 @@ A financial data validation system designed to detect revenue inflation, reconci
 
 ---
 
+
+
 \# 📷 Dashboard Preview
 
-\*!\[Dashboard Overview](Images/dashboard\_overview.png)\*
 
 
+!\[Dashboard Overview](images/dashboard\_overview.png)
+
+
+
+---
 
 
 
@@ -22,7 +28,7 @@ A financial data validation system designed to detect revenue inflation, reconci
 
 
 
-Financial forecasting was compromised due to a \*\*26.8% data integrity gap\*\* where \*"Phantom Revenue"\* and financial noise (postage, processing fees, and untracked entries) were inflating reported income.
+Financial forecasting was compromised due to a \*\*26.8% data integrity gap\*\* where \*\*"Phantom Revenue"\*\* and financial noise (postage, processing fees, and untracked entries) were inflating reported income.
 
 
 
@@ -58,6 +64,8 @@ Processed \*\*541K+ transactions\*\* and generated a clean financial dataset to 
 
 ---
 
+
+
 \### Integrity Breakdown \& Audit Alerts
 
 
@@ -65,6 +73,8 @@ Processed \*\*541K+ transactions\*\* and generated a clean financial dataset to 
 !\[Integrity Breakdown](images/integrity\_breakdown.png)
 
 
+
+---
 
 
 
@@ -124,6 +134,8 @@ This dashboard enabled \*\*real-time monitoring of financial data quality\*\*.
 
 ---
 
+
+
 \### Executive Insights \& Strategic Recommendations
 
 
@@ -131,6 +143,8 @@ This dashboard enabled \*\*real-time monitoring of financial data quality\*\*.
 !\[Strategic Recommendation](images/strategic\_recommendation.png)
 
 
+
+---
 
 
 
@@ -203,8 +217,6 @@ This dashboard enabled \*\*real-time monitoring of financial data quality\*\*.
 
 
 
-
----
 
 
 
