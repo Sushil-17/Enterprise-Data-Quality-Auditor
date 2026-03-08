@@ -16,7 +16,7 @@ A financial data validation system designed to detect revenue inflation, reconci
 
 
 
-![Dashboard Overview](Images/dashboard_overview.png)
+![Dashboard Overview](Images/dashboard_Overview.png)
 
 
 
