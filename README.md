@@ -16,7 +16,7 @@ A financial data validation system designed to detect revenue inflation, reconci
 
 
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](Images/dashboard_overview.png)
 
 
 
@@ -70,7 +70,7 @@ Processed **541K+ transactions** and generated a clean financial dataset to supp
 
 
 
-![Integrity Breakdown](images/integrity_breakdown.png)
+![Integrity Breakdown](Images/integrity_breakdown.png)
 
 
 
@@ -140,7 +140,7 @@ This dashboard enabled **real-time monitoring of financial data quality**.
 
 
 
-![Strategic Recommendation](images/strategic_recommendation.png)
+![Strategic Recommendation](Images/strategic_recommendation.png)
 
 
 
