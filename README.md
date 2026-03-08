@@ -1,6 +1,6 @@
-\# 🛡️ Enterprise Data Quality Auditor
+# 🛡️ Enterprise Data Quality Auditor
 
-\### Revenue Integrity \& ETL Validation Pipeline
+### Revenue Integrity \& ETL Validation Pipeline
 
 
 
@@ -12,27 +12,11 @@ A financial data validation system designed to detect revenue inflation, reconci
 
 
 
-\# 📷 Dashboard Preview
+# 📷 Dashboard Preview
 
 
 
-!\[Dashboard Overview](images/dashboard\_overview.png)
-
-
-
----
-
-
-
-\# 📊 Business Problem
-
-
-
-Financial forecasting was compromised due to a \*\*26.8% data integrity gap\*\* where \*\*"Phantom Revenue"\*\* and financial noise (postage, processing fees, and untracked entries) were inflating reported income.
-
-
-
-From a \*\*£9M gross transaction dataset\*\*, the true actionable revenue was unclear, increasing the risk of \*\*misleading financial reporting and incorrect business decisions\*\*.
+![Dashboard Overview](images/dashboard_overview.png)
 
 
 
@@ -40,25 +24,15 @@ From a \*\*£9M gross transaction dataset\*\*, the true actionable revenue was u
 
 
 
-\# 🏆 Executive Impact (Results)
+# 📊 Business Problem
 
 
 
-\### 💰 Reconciled £7.48M in Actual Revenue
-
-Identified and filtered \*\*£2.2M in revenue inflation\*\* from a £9M gross transaction volume by detecting non-revenue financial records.
+Financial forecasting was compromised due to a **26.8% data integrity gap** where **"Phantom Revenue"** and financial noise (postage, processing fees, and untracked entries) were inflating reported income.
 
 
 
-\### ⚡ Reduced Manual Audit Latency by 90%
-
-Engineered an \*\*automated ETL validation pipeline\*\* that replaced manual auditing with a scalable and high-speed data quality process.
-
-
-
-\### 🥇 Certified "Gold Standard" Dataset
-
-Processed \*\*541K+ transactions\*\* and generated a clean financial dataset to support \*\*reliable executive-level financial forecasting\*\*.
+From a **£9M gross transaction dataset**, the true actionable revenue was unclear, increasing the risk of **misleading financial reporting and incorrect business decisions**.
 
 
 
@@ -66,69 +40,25 @@ Processed \*\*541K+ transactions\*\* and generated a clean financial dataset to 
 
 
 
-\### Integrity Breakdown \& Audit Alerts
+# 🏆 Executive Impact (Results)
 
 
 
-!\[Integrity Breakdown](images/integrity\_breakdown.png)
+### 💰 Reconciled £7.48M in Actual Revenue
+
+Identified and filtered **£2.2M in revenue inflation** from a £9M gross transaction volume by detecting non-revenue financial records.
 
 
 
----
+### ⚡ Reduced Manual Audit Latency by 90%
+
+Engineered an **automated ETL validation pipeline** that replaced manual auditing with a scalable and high-speed data quality process.
 
 
 
-\# 🛠️ Technical Solution
+### 🥇 Certified "Gold Standard" Dataset
 
-
-
-\## Automated ETL Pipeline
-
-Developed a robust ETL pipeline using \*\*Python (Pandas + SQLAlchemy)\*\* to:
-
-
-
-\- Ingest large-scale raw financial datasets
-
-\- Clean and standardize transaction records
-
-\- Prepare structured data for validation
-
-
-
-\## Multi-Layer SQL Validation Engine
-
-Implemented advanced validation logic in \*\*PostgreSQL\*\* using:
-
-
-
-\- \*\*CTEs (Common Table Expressions)\*\*
-
-\- \*\*Window Functions\*\*
-
-\- Custom filtering logic
-
-
-
-This allowed the system to isolate \*\*non-revenue financial noise\*\* such as fees, postage, and incomplete records.
-
-
-
-\## Interactive Audit Dashboard
-
-Built a \*\*Streamlit-based analytics interface\*\* to visualize:
-
-
-
-\- Revenue integrity metrics
-
-\- Risk segments
-
-\- Profit-at-risk indicators
-
-
-
-This dashboard enabled \*\*real-time monitoring of financial data quality\*\*.
+Processed **541K+ transactions** and generated a clean financial dataset to support **reliable executive-level financial forecasting**.
 
 
 
@@ -136,29 +66,11 @@ This dashboard enabled \*\*real-time monitoring of financial data quality\*\*.
 
 
 
-\### Executive Insights \& Strategic Recommendations
+### Integrity Breakdown \& Audit Alerts
 
 
 
-!\[Strategic Recommendation](images/strategic\_recommendation.png)
-
-
-
----
-
-
-
-\# 📊 Dataset Scale
-
-
-
-\- \*\*Transactions Processed:\*\* 541,000+
-
-\- \*\*Total Gross Transaction Volume:\*\* £9M
-
-\- \*\*Validated Revenue:\*\* £7.48M
-
-\- \*\*Revenue Inflation Identified:\*\* £2.2M
+![Integrity Breakdown](images/integrity_breakdown.png)
 
 
 
@@ -166,25 +78,57 @@ This dashboard enabled \*\*real-time monitoring of financial data quality\*\*.
 
 
 
-\# 🚀 Tech Stack
+# 🛠️ Technical Solution
 
 
 
-\### Languages
+## Automated ETL Pipeline
 
-\- Python (Pandas, NumPy, SQLAlchemy)
-
-
-
-\### Database
-
-\- PostgreSQL
+Developed a robust ETL pipeline using **Python (Pandas + SQLAlchemy)** to:
 
 
 
-\### Interface
+- Ingest large-scale raw financial datasets
 
-\- Streamlit
+- Clean and standardize transaction records
+
+- Prepare structured data for validation
+
+
+
+## Multi-Layer SQL Validation Engine
+
+Implemented advanced validation logic in **PostgreSQL** using:
+
+
+
+- **CTEs (Common Table Expressions)**
+
+- **Window Functions**
+
+- Custom filtering logic
+
+
+
+This allowed the system to isolate **non-revenue financial noise** such as fees, postage, and incomplete records.
+
+
+
+## Interactive Audit Dashboard
+
+Built a **Streamlit-based analytics interface** to visualize:
+
+
+
+- Revenue integrity metrics
+
+- Risk segments
+
+- Profit-at-risk indicators
+
+
+
+This dashboard enabled **real-time monitoring of financial data quality**.
 
 
 
@@ -192,23 +136,79 @@ This dashboard enabled \*\*real-time monitoring of financial data quality\*\*.
 
 
 
-\# 📌 Key Skills Demonstrated
+### Executive Insights & Strategic Recommendations
 
 
 
-\- Data Quality Engineering
+![Strategic Recommendation](images/strategic_recommendation.png)
 
-\- Financial Data Validation
 
-\- ETL Pipeline Development
 
-\- SQL Analytics
+---
 
-\- Large Dataset Processing
 
-\- Business Impact Analysis
 
-\- Data Integrity Auditing
+# 📊 Dataset Scale
+
+
+
+- **Transactions Processed:** 541,000+
+
+- **Total Gross Transaction Volume:** £9M
+
+- **Validated Revenue:** £7.48M
+
+- **Revenue Inflation Identified:** £2.2M
+
+
+
+---
+
+
+
+# 🚀 Tech Stack
+
+
+
+### Languages
+
+- Python (Pandas, NumPy, SQLAlchemy)
+
+
+
+### Database
+
+- PostgreSQL
+
+
+
+### Interface
+
+- Streamlit
+
+
+
+---
+
+
+
+# 📌 Key Skills Demonstrated
+
+
+
+- Data Quality Engineering
+
+- Financial Data Validation
+
+- ETL Pipeline Development
+
+- SQL Analytics
+
+- Large Dataset Processing
+
+- Business Impact Analysis
+
+- Data Integrity Auditing
 
 
 
@@ -220,7 +220,7 @@ This dashboard enabled \*\*real-time monitoring of financial data quality\*\*.
 
 
 
-\# 📂 Project Structure
+# 📂 Project Structure
 
 ├── data/                 # Sample transaction datasets (Anonymized)
 
